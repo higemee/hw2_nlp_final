@@ -1,0 +1,6 @@
+torch>=2.3
+tokenizers
+numpy
+pandas
+pyarrow
+huggingface_hub
